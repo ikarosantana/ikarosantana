@@ -1,8 +1,6 @@
-### Olá! Eu sou Íkaro Santana. 👋
+### Olá! Eu sou Íkaro Santana 👋
 
-- 🔭 Hoje trabalho com Front e Back-End, automação de tarefas e gestão de tecnologia
-- 🌱 Estudando Typescript
-- 👯 ele/dele
+- 🔭 Hoje trabalho com Front e Back-End, Testes de aplicações e Gestão de Ti.
 - 💬 contate-me pelo e-mail: ikarosantana@gmail.com
 
 <div align="left">

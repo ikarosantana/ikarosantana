@@ -1,6 +1,6 @@
 ### Olá! Eu sou Íkaro Santana 👋
 
-- 🔭 Hoje trabalho com Front e Back-End, Testes de aplicações web e Gestão de Ti.
+- 🔭 Transformação Digital | Inovação | Automação Digital | Projetos | Processos | Gestão Ágil | Desenvolvimento de Software
 - 💬 contate-me pelo e-mail: ikarosantana@gmail.com
 
 <div align="left">
